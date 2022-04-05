@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    background-color: rgb(95, 91, 85);
+    background-size:4000 ;
+}
+
+section {
+    width: 600px;
+    border-style: groove;
+    border-color: black;
+    margin: 13px;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: rgb(206, 146, 67);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#btnCalcular {  
+    margin: 5px;
+    border-radius: 5px;
+}
+
+    
