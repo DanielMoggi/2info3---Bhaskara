@@ -1,9 +1,10 @@
 body {
     display: flex;
-    justify-content: center;
-    margin: 0;
-    background-color: rgb(95, 91, 85);
-    background-size:4000 ;
+    justify-content: right;
+    margin: 270px;
+    background-color: rgb(24, 23, 23);
+    background-image: url(minecraft-wallpaper-6.jpg);
+    margin-top: 100px;
 }
 
 section {
@@ -13,15 +14,18 @@ section {
     margin: 13px;
     padding: 10px;
     border-radius: 25px;
-    background-color: rgb(206, 146, 67);
+    background-image: url(minecraft\ texturas\ classicas\ -\ 22.jpg);
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin-top: 40px;
+    color: white;
 }
 
 #btnCalcular {  
     margin: 5px;
     border-radius: 5px;
 }
+
 
     
