@@ -20,6 +20,7 @@ section {
     align-items: center;
     margin-top: 40px;
     color: white;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #btnCalcular {  
@@ -27,5 +28,18 @@ section {
     border-radius: 5px;
 }
 
+button:hover {
+  background-color: green;
+  color: white;
+  transform: scale(1.1);
+}
 
+img:hover {
+    transform: scale(1.5);
+    box-shadow: 3px;
+}
+
+input:hover {
+    transform: scale(1.2);
+}
     
