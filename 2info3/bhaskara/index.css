@@ -42,4 +42,9 @@ img:hover {
 input:hover {
     transform: scale(1.2);
 }
-    
+
+input {
+    border-color: black;
+    border-radius: 5px;
+}
+
