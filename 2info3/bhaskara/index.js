@@ -24,3 +24,5 @@ function handleBtnCalcular(){
     document.getElementById('resultadoX2').innerHTML ='x2:' + resultado.x2
 }
 document.getElementById('btnCalcular').addEventListener('click',handleBtnCalcular)
+
+
